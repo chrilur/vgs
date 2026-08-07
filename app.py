@@ -53,7 +53,7 @@ def load_all_data(df_files):
 
             # NYTT: Sikrer at skolenavnet i dataene er NØYAKTIG det samme som i rullegardinmenyen
             df["skole"] = row["skole"]
-            
+
             df_list.append(df)
         except Exception:
             pass
@@ -185,7 +185,7 @@ else:
                             ).interactive()
                             
                             # Slår av Streamlit-tema for å tvinge x-aksen til å vise alle år
-                            st.altair_chart(chart, use_container_width=True, theme=None)
+                            st.altair_chart(chart, use_container_width=True)
                             
                             # --- NYTT: Nedlastingsknapp for Excel ---
                             
