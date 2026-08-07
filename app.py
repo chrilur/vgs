@@ -50,6 +50,10 @@ def load_all_data(df_files):
             df = pd.read_csv(row["file"])
             # Vi legger til fylkesnavnet som en egen kolonne i dataene
             df["fylkesnavn"] = row["fylkesnavn"]
+
+            # NYTT: Sikrer at skolenavnet i dataene er NØYAKTIG det samme som i rullegardinmenyen
+            df["skole"] = row["skole"]
+            
             df_list.append(df)
         except Exception:
             pass

@@ -1,21 +1,11 @@
 "fylkesnr","skole","linje","2016-17 alle","2016-17 gutter","2016-17 jenter","2017-18 alle","2017-18 gutter","2017-18 jenter","2018-19 alle","2018-19 gutter","2018-19 jenter","2019-20 alle","2019-20 gutter","2019-20 jenter","2020-21 alle","2020-21 gutter","2020-21 jenter","2021-22 alle","2021-22 gutter","2021-22 jenter","2022-23 alle","2022-23 gutter","2022-23 jenter","2023-24 alle","2023-24 gutter","2023-24 jenter","2024-25 alle","2024-25 gutter","2024-25 jenter","2025-26 alle","2025-26 gutter","2025-26 jenter"
-55,"Ishavsbyen videregående skole
-","Alle utdanningsprogram","660","381","279","668","373","295","641","369","272","631","361","270","621","366","255","626","366","260","628","369","259","648","386","262","651","396","255","674","395","279"
-55,"Ishavsbyen videregående skole
-","Studieforberedende",NA,NA,NA,NA,NA,NA,"1",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1","1",NA,"1","1",NA,"1","1",NA,NA,NA,NA
-55,"Ishavsbyen videregående skole
-","Påbygging til generell studiekompetanse",NA,NA,NA,NA,NA,NA,"1",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1","1",NA,"1","1",NA,"1","1",NA,NA,NA,NA
-55,"Ishavsbyen videregående skole
-","Yrkesfaglig","660","381","279","668","373","295","640","369","271","631","361","270","621","366","255","626","366","260","627","368","259","647","385","262","650","395","255","674","395","279"
-55,"Ishavsbyen videregående skole
-","Design og håndverk","1",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-55,"Ishavsbyen videregående skole
-","Elektro og datateknologi","151","145","6","167","157","10","174","159","15","172","158","14","168","157","11","166","159","7","150","144","6","159","144","15","158","136","22","152","133","19"
-55,"Ishavsbyen videregående skole
-","Helse- og oppvekstfag","264","40","224","287","40","247","259","37","222","248","35","213","241","35","206","232","32","200","228","22","206","225","28","197","209","28","181","228","26","202"
-55,"Ishavsbyen videregående skole
-","Restaurant- og matfag","65","28","37","60","37","23","46","26","20","48","24","24","50","26","24","51","24","27","41","23","18","40","20","20","58","33","25","67","33","34"
-55,"Ishavsbyen videregående skole
-","Service og samferdsel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13","11","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-55,"Ishavsbyen videregående skole
-","Teknologi- og industrifag","179","168","11","154","139","15","161","147","14","163","144","19","149","137","12","177","151","26","208","179","29","223","193","30","225","198","27","227","203","24"
+55,"Ishavsbyen videregående skole","Alle utdanningsprogram","660","381","279","668","373","295","641","369","272","631","361","270","621","366","255","626","366","260","628","369","259","648","386","262","651","396","255","674","395","279"
+55,"Ishavsbyen videregående skole","Studieforberedende",NA,NA,NA,NA,NA,NA,"1",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1","1",NA,"1","1",NA,"1","1",NA,NA,NA,NA
+55,"Ishavsbyen videregående skole","Påbygging til generell studiekompetanse",NA,NA,NA,NA,NA,NA,"1",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,"1","1",NA,"1","1",NA,"1","1",NA,NA,NA,NA
+55,"Ishavsbyen videregående skole","Yrkesfaglig","660","381","279","668","373","295","640","369","271","631","361","270","621","366","255","626","366","260","627","368","259","647","385","262","650","395","255","674","395","279"
+55,"Ishavsbyen videregående skole","Design og håndverk","1",NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,"Ishavsbyen videregående skole","Elektro og datateknologi","151","145","6","167","157","10","174","159","15","172","158","14","168","157","11","166","159","7","150","144","6","159","144","15","158","136","22","152","133","19"
+55,"Ishavsbyen videregående skole","Helse- og oppvekstfag","264","40","224","287","40","247","259","37","222","248","35","213","241","35","206","232","32","200","228","22","206","225","28","197","209","28","181","228","26","202"
+55,"Ishavsbyen videregående skole","Restaurant- og matfag","65","28","37","60","37","23","46","26","20","48","24","24","50","26","24","51","24","27","41","23","18","40","20","20","58","33","25","67","33","34"
+55,"Ishavsbyen videregående skole","Service og samferdsel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13","11","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,"Ishavsbyen videregående skole","Teknologi- og industrifag","179","168","11","154","139","15","161","147","14","163","144","19","149","137","12","177","151","26","208","179","29","223","193","30","225","198","27","227","203","24"
