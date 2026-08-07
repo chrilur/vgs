@@ -27,7 +27,7 @@ def get_file_mapping(fylke_mapping):
     """Leter gjennom mappen etter skole-filer."""
     mapping = []
     for f in glob.glob("*.csv"):
-        if f == "fylker.csv":
+        if f == "fylker.csv" or f == "1_Hele landet.csv":
             continue
             
         base = os.path.basename(f).replace(".csv", "")
