@@ -1,0 +1,16 @@
+name: Keep Streamlit App Awake
+on:
+  schedule:
+    - cron: '0 */10 * * *' # Kjører hver 10. time
+  workflow_dispatch:
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lag en tom commit for å nullstille Streamlit-timeren
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git commit --allow-empty -m "Keep alive: reset Streamlit sleep timer"
+          git push
